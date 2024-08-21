@@ -1,0 +1,180 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/f6/5d/de/f65dde331e3edce2aa1b4a37033128be.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #3a2f33;
+}
+
+#titulo{
+    font-family: "Satisfy", cursive;
+    font-size: 80px;
+    background-color: rgb(248, 217, 231);
+    text-align: center;
+    color: rgb(49, 1, 23);
+    border-style: double;
+    border-radius: 100px;
+    border-color: #75003b;
+    border-width: 10px;
+    margin-bottom: 30px;
+}
+
+div{
+    background-color: rgb(248, 217, 231);
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 0%;
+    font-size: 20px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: rgb(153, 72, 99);
+}
+
+#indice1, #indice2, #indice3, #indice4, #indice5{
+    margin-right: 70px;
+    color: rgb(136, 76, 99);
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 20px;
+}
+#indice6{
+    color: rgb(136, 76, 99);
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.todo{
+    background-color: rgb(248, 217, 231);
+    padding: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 0%;
+    font-size: 20px;
+    border-radius: 15px;
+    border-color: rgb(153, 72, 99);
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 20px;
+    list-style: inside;
+}
+
+#SET-IT-OFF, #BTS, #CLARIS, #STRAY-KIDS, #US, #GFRIEND{
+    font-family: "Satisfy", cursive;
+    font-size: 60px;
+    background-color: rgb(248, 217, 231);
+    text-align: center;
+    color: rgb(49, 1, 23);
+    border-style: solid;
+    border-radius: 100px;
+    border-color: #75003b;
+    border-width: 6px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 0px;
+}
+
+#pagina{
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 25px;
+    color: rgb(71, 37, 50);
+}
+
+#imagen1, #imagen2, #imagen3, #imagen4, #imagen5, #imagen6 {
+    height: 400px;
+}
+
+#descripcion{
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 17px;
+    color: rgb(94, 46, 64);
+    margin-top: 0%;
+    margin-bottom: 10px;
+}
+
+#texto{
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(36, 33, 34);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+#subtitulo{
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 22px;
+    color: rgb(109, 5, 39);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+}
+
+#album{
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(36, 33, 34);
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: rgb(197, 131, 153);
+    border-width: 5px;
+    background-color: rgb(247, 217, 227);
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+#pregunta{
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 25px;
+    color: rgb(53, 3, 20);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+#correo{
+    background-color: #fff9fb;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(41, 6, 17);
+    margin-top: 10px;
+}
+
+#boton{
+padding: 10px 20px;
+    background-color: #7a263f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(252, 228, 236);
+    margin-top: 5px;
+}
+
+#pie{
+    font-family: "Sedan", serif;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(36, 33, 34);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
